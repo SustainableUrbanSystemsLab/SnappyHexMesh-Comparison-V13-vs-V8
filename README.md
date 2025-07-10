@@ -1,4 +1,4 @@
-# # SnappyHexMesh-Comparison-V13-vs-V8
+# SnappyHexMesh-Comparison-V13-vs-V8
 
 # Comparing Mesh Quality in OpenFOAM v8 and v13
 
